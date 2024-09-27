@@ -1,6 +1,6 @@
 # ⭐ Best K-Drama Series ⭐
 
-Welcome to the "Best K-Drama Series" project! This repository showcases a list of the top 10 BEST K-Drama Series with their details, including images, descriptions, and links.
+Welcome to the "Best K-Drama Series" project! This repository showcases a list of the top 10 BEST K-Drama Series of all time! Here you can find more about the series and links to IMDb for more details.
 
 ## Table of Contents
 
@@ -13,12 +13,12 @@ Welcome to the "Best K-Drama Series" project! This repository showcases a list o
 
 ## Introduction
 
-This project aims to highlight the best movies released in 2023. Each movie entry includes an image, title, description, and a link for more information on IMDb.
+This project aims to highlight the 10 BEST K-Drama Series of all time. Each series entry includes an image, title, description, and a link for more information on IMDb.
 
 ## K-Drama Series List
 
 The list of series is displayed in an ordered manner with details about each film. Each series entry includes:
-- Series Poster
+- Poster
 - Title
 - Description
 - IMDb Link
