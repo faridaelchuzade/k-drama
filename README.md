@@ -18,7 +18,7 @@ This project aims to highlight the best movies released in 2023. Each movie entr
 ## K-Drama Series List
 
 The list of series is displayed in an ordered manner with details about each film. Each series entry includes:
-- SeriesPoster
+- Series Poster
 - Title
 - Description
 - IMDb Link
