@@ -46,7 +46,7 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 ## Contributors
 
-- [Farida Elchuzade](https://twitter.com/faridaelchuzade)
+- [Farida Elchuzade](https://www.linkedin.com/in/farida-elchuzade/)
 - [Peifang Luo](https://www.linkedin.com/in/peifang-luo-dev/)
 - [Isis Chantelle Swoboda](https://www.linkedin.com/in/isis-chantelle-swoboda/)
 
