@@ -56,5 +56,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-Thank you for exploring the "Best Movies of 2023" project! If you have any questions or suggestions, feel free to open an issue or contact the project maintainers.
+Thank you for exploring the "Best K-Drama Series" project! If you have any questions or suggestions, feel free to open an issue or contact the project maintainers.
 
