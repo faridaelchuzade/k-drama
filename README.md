@@ -46,6 +46,22 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 ## Contributors
 
+_Farida Elchuzade_
+
+- Incorporated an external font.
+- Used a flexbox/grid for the main layout of the interface.
+- Utilized at least one pseudo-class to capture different states of elements.
+- Implemented media queries for screens smaller than 480px.
+
+_Andreea Cioca_
+
+- Filled in the 'Contributors' section of the ReadME.md file.
+- Created an outsourced CCS file.
+- Used/created classes and IDs for styling the form, background,images and text.
+- Included a General Sibling Combinator and a Child Combinator.
+
+
+
 - [Farida Elchuzade](https://www.linkedin.com/in/farida-elchuzade/)
 - [Peifang Luo](https://www.linkedin.com/in/peifang-luo-dev/)
 - [Isis Chantelle Swoboda](https://www.linkedin.com/in/isis-chantelle-swoboda/)
