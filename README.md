@@ -46,6 +46,8 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 ## Contributors
 
+
+## Week 2 Challenge Contributors
 _Farida Elchuzade_
 
 - Incorporated an external font.
@@ -59,12 +61,14 @@ _Andreea Cioca_
 - Created an outsourced CCS file.
 - Used/created classes and IDs for styling the form, background,images and text.
 - Included a General Sibling Combinator and a Child Combinator.
+  
 
-
-
+## Week 1 Challenge Contributors
 - [Farida Elchuzade](https://www.linkedin.com/in/farida-elchuzade/)
 - [Peifang Luo](https://www.linkedin.com/in/peifang-luo-dev/)
 - [Isis Chantelle Swoboda](https://www.linkedin.com/in/isis-chantelle-swoboda/)
+
+  
 
 ## License
 
