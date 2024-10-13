@@ -13,14 +13,12 @@
   background: linear-gradient(90deg, rgba(94, 90, 158) 0%, rgba(242, 238, 246, 1) 66%, rgba(0, 212, 255, 1) 100%);
 }
 
-
 #main-image {
-
+  width: 50%;
   display: block;
   padding-bottom: 20px;
   margin: 0 auto;
 }
-
 
 .footer-copy {
   text-align: center;
