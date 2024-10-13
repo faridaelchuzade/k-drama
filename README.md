@@ -62,6 +62,9 @@ _Andreea Cioca_
 - Used/created classes and IDs for styling the form, background,images and text.
 - Included a General Sibling Combinator and a Child Combinator.
   
+_Lin Mu_
+- Changed the main page image
+- Added a new movie to the list
 
 ## Week 1 Challenge Contributors
 - [Farida Elchuzade](https://www.linkedin.com/in/farida-elchuzade/)
